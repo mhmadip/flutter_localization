@@ -1,3 +1,29 @@
+// This code is modified by Mohammad Salim to make it works in two ways instead
+// of one way, to choose language automatically based on user device language or the user
+// can click on a button to update the App UI.
+
+// Copyright 2017 The Chromium Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+// A simple "rough and ready" example of localizing a Flutter app.
+// Arabic and English (locale language codes 'en' and 'ar') are
+// supported.
+
+// The pubspec.yaml file must include flutter_localizations in its
+// dependencies section. For example:
+//
+// dependencies:
+//   flutter:
+//     sdk: flutter
+//   flutter_localizations:
+//     sdk: flutter
+
+// If you run this app with the device's locale set to anything but
+// English or Arabic, the app's locale will be English. If you
+// set the device's locale to Arabic, the app's locale will be
+// Arabic.
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';
