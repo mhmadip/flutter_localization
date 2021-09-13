@@ -1,4 +1,4 @@
-# flutter_app_translate
+# flutter_app_localization
 
 This app is an introduction to localizations in Flutter and show how how to internationalize a Flutter application.
 
