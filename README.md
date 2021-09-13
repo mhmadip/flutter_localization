@@ -1,6 +1,6 @@
 # flutter_app_localization
 
-This app is an introduction to localizations in Flutter and show how how to internationalize a Flutter application.
+This app is an introduction to localizations in Flutter and show how how to internationalize a Flutter application. Thanks to Dr. Taha Basheer for the nice buttons design.
 
 ## Getting Started
 <img src="screen.png" height='800' />
